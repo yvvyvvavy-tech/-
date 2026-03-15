@@ -1,0 +1,14 @@
+{
+  "name": "telegram-chat-roulette-bot",
+  "version": "1.0.0",
+  "description": "Telegram chat roulette bot with registration, login, age check, admin, collector role, and statistics.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "mongodb": "^7.1.0",
+    "telegraf": "^4.16.3"
+  }
+}
